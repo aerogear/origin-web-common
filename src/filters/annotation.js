@@ -31,7 +31,7 @@ angular.module('openshiftCommonUI')
       "systemOnly":                ["authorization.openshift.io/system-only"],
       "mobileSetBuildDownload":    ["aerogear.org/download-mobile-artifact"],
       "mobileGetBuildDownload":    ["aerogear.org/download-mobile-artifact-url"],
-      "mobileServiceInstanceName": ["service_instance_name"],
+      "mobileServiceInstanceName": ["aerogear.org/service-instance-name"],
       "mobileBindingConsumerId":   ["binding.aerogear.org/consumer"],
       "mobileBindingProviderId":   ["binding.aerogear.org/provider"]
     };
